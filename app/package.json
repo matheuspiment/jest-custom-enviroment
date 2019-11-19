@@ -1,0 +1,12 @@
+{
+  "name": "jest-custom-enviroment",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "custom-enviroment": "../custom-enviroment",
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}

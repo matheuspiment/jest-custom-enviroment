@@ -1,0 +1,9 @@
+{
+  "name": "custom-enviroment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "jest": "^24.9.0"
+  }
+}
