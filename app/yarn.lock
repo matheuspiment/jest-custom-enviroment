@@ -802,7 +802,7 @@ cssstyle@^1.0.0:
   dependencies:
     cssom "0.3.x"
 
-custom-enviroment@../custom-enviroment:
+custom-environment@../custom-environment:
   version "1.0.0"
 
 dashdash@^1.12.0:

@@ -132,7 +132,7 @@ module.exports = {
   // snapshotSerializers: [],
 
   // The test environment that will be used for testing
-  testEnvironment: "custom-enviroment"
+  testEnvironment: "custom-environment"
 
   // Options that will be passed to the testEnvironment
   // testEnvironmentOptions: {},
